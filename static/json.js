@@ -71,7 +71,7 @@ $(document).ready(function() {
 });
 
 var submitButtonText;
-var nextButton
+var nextButton;
 
 function assignButtonText(sbt, nbt) {
     submitButtonText = sbt;
